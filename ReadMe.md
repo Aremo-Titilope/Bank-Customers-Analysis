@@ -72,7 +72,7 @@ Risk Ladders
 * Customers in the 2–3 year bracket show a significant drop in exit rate (to ~20.2%)
 
 
-giChurn 
+Churn 
 
 * Customers with Poor credit scores have the highest exit rate (above 0.21)
 * There is a slight downward trend as credit score improves
