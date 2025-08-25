@@ -72,12 +72,40 @@ Risk Ladders
 * Customers in the 2–3 year bracket show a significant drop in exit rate (to ~20.2%)
 
 
-giChurn 
+
+Churn 
 
 * Customers with Poor credit scores have the highest exit rate (above 0.21)
 * There is a slight downward trend as credit score improves
 * Higher Exit Rates in Older and Youngest Groups
 * Customers who are not active members have an exit rate of >25%.
+* Customers with Fair credit scores have the highest estimated salaries (around 8).
+* This reveals a disconnect between income and credit score quality,
+having a higher salary doesn’t guarantee a better credit score, and vice versa. 
+
+
+Finanacial Distribution
+
+* Across all credit score brackets, balances are quite similar in distribution. This suggests credit score is not a strong differentiator of customer balance levels.
+* Estimated salaries also show similar distributions across credit score brackets.
+* Both balance and salary do not differ significantly across credit score categories. This implies credit score might be influenced more by customer behavior rather than raw income or deposit balances.
+
+
+
+### Conclusions 
+
+* At-Risk Customers Exist in Clear Segments
+Customers who are inactive (IsActiveMember = 0) and/or hold ≤1 product show a disproportionately higher churn rate.
+
+* Financial Exposure Is Concentrated
+A meaningful share of estimated salary balances is held by these at-risk groups, particularly in certain Credit Score Brackets. Losing them would represent a measurable revenue/profit risk.
+
+* Churn Drivers Are Multi-Dimensional
+Churn correlates with credit score, age band, and tenure. Younger customers with poor credit, and older inactive customers with single products, are more prone to exit.
+
+* Customer Engagement Is Uneven Across Geographies
+Some regions show higher percentages of inactive customers, pointing to operational or service delivery gaps in specific geographies.
+
 
 
 ### Recommendations
@@ -107,6 +135,6 @@ giChurn
 * Consider piloting region-specific offers like community events, localized 
 
 
-### Conclusions
+### Summary
 
 If churn in inactive, single-product customers can be reduced even modestly, the bank can protect millions in estimated balances, improve product penetration, and stabilize long-term revenue streams.
