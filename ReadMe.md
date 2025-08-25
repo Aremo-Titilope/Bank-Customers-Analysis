@@ -72,7 +72,6 @@ Risk Ladders
 * Customers in the 2–3 year bracket show a significant drop in exit rate (to ~20.2%)
 
 
-
 Churn 
 
 * Customers with Poor credit scores have the highest exit rate (above 0.21)
@@ -84,7 +83,7 @@ Churn
 having a higher salary doesn’t guarantee a better credit score, and vice versa. 
 
 
-Finanacial Distribution
+Financial Distribution
 
 * Across all credit score brackets, balances are quite similar in distribution. This suggests credit score is not a strong differentiator of customer balance levels.
 * Estimated salaries also show similar distributions across credit score brackets.
